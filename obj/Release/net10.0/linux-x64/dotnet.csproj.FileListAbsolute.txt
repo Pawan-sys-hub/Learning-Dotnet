@@ -1,0 +1,14 @@
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/dotnet
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/dotnet.deps.json
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/dotnet.runtimeconfig.json
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/dotnet.pdb
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.AssemblyInfoInputs.cache
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.AssemblyInfo.cs
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.csproj.CoreCompileInputs.cache
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/refint/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.pdb
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/dotnet.genruntimeconfig.cache
+/home/pawan-pokharel/Documents/dotnet/obj/Release/net10.0/linux-x64/ref/dotnet.dll

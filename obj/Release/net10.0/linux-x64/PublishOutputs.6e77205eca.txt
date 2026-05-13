@@ -1,0 +1,5 @@
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/publish/dotnet
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/publish/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/publish/dotnet.deps.json
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/publish/dotnet.runtimeconfig.json
+/home/pawan-pokharel/Documents/dotnet/bin/Release/net10.0/linux-x64/publish/dotnet.pdb

@@ -1,0 +1,14 @@
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.AssemblyInfoInputs.cache
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.AssemblyInfo.cs
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.csproj.CoreCompileInputs.cache
+/home/pawan-pokharel/Documents/dotnet/bin/Debug/net10.0/dotnet
+/home/pawan-pokharel/Documents/dotnet/bin/Debug/net10.0/dotnet.deps.json
+/home/pawan-pokharel/Documents/dotnet/bin/Debug/net10.0/dotnet.runtimeconfig.json
+/home/pawan-pokharel/Documents/dotnet/bin/Debug/net10.0/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/bin/Debug/net10.0/dotnet.pdb
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/refint/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.pdb
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.genruntimeconfig.cache
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/ref/dotnet.dll

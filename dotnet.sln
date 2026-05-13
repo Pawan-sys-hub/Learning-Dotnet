@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawan", "Pawan\Pawan.csproj", "{5724CE8B-1747-F6E1-6F09-F9D55A0598D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5724CE8B-1747-F6E1-6F09-F9D55A0598D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5724CE8B-1747-F6E1-6F09-F9D55A0598D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5724CE8B-1747-F6E1-6F09-F9D55A0598D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5724CE8B-1747-F6E1-6F09-F9D55A0598D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34BCB311-BA0F-4801-B3ED-C9C3CE2AE59B}
+	EndGlobalSection
+EndGlobal
