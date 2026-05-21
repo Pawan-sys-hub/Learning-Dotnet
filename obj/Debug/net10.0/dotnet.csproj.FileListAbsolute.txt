@@ -12,3 +12,4 @@
 /home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.pdb
 /home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.genruntimeconfig.cache
 /home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/ref/dotnet.dll
+/home/pawan-pokharel/Documents/dotnet/obj/Debug/net10.0/dotnet.sourcelink.json
