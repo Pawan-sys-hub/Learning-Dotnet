@@ -1,16 +1,18 @@
 
 using System;
 
-public class car
+namespace OverloadingDemo
+{
+    public class Car
 {
     //defult constructor and parameterized constructor
 
-    public car()
+    public Car()
     {
         Console.WriteLine("Default constructor");
     }
 
-    public car(string name)
+    public Car(string name)
     {
         Console.WriteLine("Parameterized Constructor  // the name is " + name);
     }
@@ -20,28 +22,30 @@ public class car
 
     public static int count;
 
-    static car()
+    static Car()
     {
         count = 0;
         Console.WriteLine("Static constructor");
     }
 
 // demonstrating constructor overloading
-    public car(string name, int year)
+    public Car(string name, int year)
     {
         Console.WriteLine("Constructor overloading // the name is " + name + " and the year is " + year);
     }
     
 //deconstrutor and test GC
-    ~car()
+    ~Car()
     {
         Console.WriteLine("Destructor called");
     }
 
  public static void Main(string[] args)
     {
-        car c1 = new car();
-        car c2 = new car("pawan");
-        car c3 = new car("pawan", 2020);
+        Car c1 = new Car();
+        Car c2 = new Car("pawan");
+        Car c3 = new Car("pawan", 2020);
     }
+}
+
 }

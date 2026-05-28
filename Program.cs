@@ -1,26 +1,12 @@
-﻿//event handling of message queue
+﻿using System;
 
-using System;
-public class MessageQueue
+namespace KMCApp
 {
-    public event Action ProcessCompleted;
-
-protected void  OnProcessCompleted()
-{
-    ProcessCompleted?.Invoke();
-
-}
-}
-class Program
-{
-  public static void Message()
+    class KMC
     {
-        Console.WriteLine("Message Processed");
-    }
-         static void Main(string[] args)
+        public static void Main()
         {
-           Process p = new Process();
-              p.ProcessCompleted += Message;
-    p.StartProcess();
-  }
+            Console.WriteLine("Welcome to KMC!");
+        }
+    }
 }
